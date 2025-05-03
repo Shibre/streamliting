@@ -1,14 +1,13 @@
 
 
-
 # st.title("Trying out Streamlit")
-# st.header("This is a header: r apparently")
+# st.header("This is a header: apparently")
 # number = st.slider("sliding number", 1,100)
 
 # st.write(f"number picked: {number}" )
 
 
-# My Plot of data
+# Plot of data
 
 import pandas as pd
 import plotly.express as px
@@ -16,7 +15,7 @@ import streamlit as st
 
 st.title("Title heading")
 
-st.write("Hello, Streamlit!")
+st.write("Hello, there!")
 
 st.header("Sample Data")
 
